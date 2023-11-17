@@ -48,3 +48,4 @@ Port 8080 by default.
 | POST   | /api/board-games     | Adds a new board game             |
 | PUT    | /api/board-games/:id | Updates a board game              |
 | DELETE | /api/board-games/:id | Deletes a board game              |
+#Unit4.Gamestore.Starter

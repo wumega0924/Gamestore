@@ -1,8 +1,6 @@
 const express = require('express');
 const router = express.Router();
 
-const REPLACE_ME = 'HELP REPLACE ME!!!!';
-
 const { getAllVideoGames,
     getVideoGameById,
     createVideoGame,
